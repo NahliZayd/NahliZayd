@@ -4,7 +4,7 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahlizayd&label=Profile%20views&color=0e75b6&style=flat" alt="nahlizayd" /> </p>
   
-  <img src="https://raw.githubusercontent.com/NahliZayd/NahliZayd/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/NahliZayd/NahliZayd/main/snake.svg" alt="Snake animation" />
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahlizayd" alt="nahlizayd" /></a> </p>
 
@@ -51,7 +51,7 @@
      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahlizayd&" alt="nahlizayd" /></p>
   </div>
 
-  <img align="right" height="150" src=""  />
+
 
 
   <div align="left">
