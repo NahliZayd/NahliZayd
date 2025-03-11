@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 🖖, I'm Nahli Zayd</h1>
-  <h3>a passionate 20-year-old pursuing my first year in computer science in France.</h3>
+  <h3>a passionate 20-year-old pursuing my second year in computer science in France.</h3>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahlizayd&label=Profile%20views&color=0e75b6&style=flat" alt="nahlizayd" /> </p>
   
