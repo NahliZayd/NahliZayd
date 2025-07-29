@@ -10,8 +10,6 @@
 
   <p align="left">🔭 I’m currently working on <a href="https://github.com/NahliZayd/CrossVersionHack">CrossVersion Hack</a></p>
 
-  <p align="left">🔭 I’m currently working on <a href="https://github.com/NahliZayd/MazeSolver">MazeSolver</a></p>
-  
   <p align="left">🌱 I’m currently learning Java agent, Java reflection, Java 2D graphics, Java 3D rendering...</p>
 
   <p align="left">
