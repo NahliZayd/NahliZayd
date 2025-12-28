@@ -8,9 +8,10 @@
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahlizayd" alt="nahlizayd" /></a> </p>
 
-  <p align="left">🔭 I’m currently working on <a href="https://github.com/NahliZayd/CrossVersionHack">CrossVersion Hack</a></p>
+<p align="left">🔭 I’m currently working on <strong>GenesisForge</strong> — a large-scale procedural planet generation & simulation engine.</p>
 
-  <p align="left">🌱 I’m currently learning Java agent, Java reflection, Java 2D graphics, Java 3D rendering...</p>
+<p align="left">🌱 I’m currently exploring engine development, procedural generation, simulations, rendering pipelines and 2D/3D graphics.</p>
+
 
   <p align="left">
   </p>
