@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Nahli%20Zayd&fontSize=90&animation=fadeIn&fontAlignY=38" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NahliZayd/NahliZayd/main/snake.svg" alt="Snake animation" width="60%" />
+</div>
   ### 🌌 Computer Science Student & Graphics Enthusiast
   *Third-year CS student based in France, building worlds from code.*
 
@@ -27,24 +29,19 @@ I am currently deep-diving into the technical abyss of engine development and pr
 
 ---
 
+<div align="center">
+
 ### 📊 Tactical Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NahliZayd&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NahliZayd&layout=compact&theme=dracula&hide_border=true&card_width=250" height="165" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahlizayd&theme=dracula&hide_border=true" width="100%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=NahliZayd&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NahliZayd&layout=compact&theme=dracula&hide_border=true" height="180" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NahliZayd&theme=dracula&hide_border=true&area=true" width="100%" />
+
+</div>
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nahlizayd&theme=dracula&no-frame=true&column=7" alt="trophies" />
-  </a>
-</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NahliZayd/NahliZayd/main/snake.svg" alt="Snake animation" width="60%" />
-</div>
+
