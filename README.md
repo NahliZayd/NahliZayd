@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/NahliZayd/NahliZayd/main/snake.svg" alt="Snake animation" width="60%" />
 </div>
-  ### 🌌 Computer Science Student & Graphics Enthusiast
+   🌌 Computer Science Student & Graphics Enthusiast
   *Third-year CS student based in France, building worlds from code.*
 
   [![](https://visit-counter.vercel.app/counter.png?page=nahlizayd)](https://github.com/nahlizayd)
