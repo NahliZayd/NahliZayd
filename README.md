@@ -1,62 +1,50 @@
 <div align="center">
-  <h1>Hi 🖖, I'm Nahli Zayd</h1>
-  <h3>a passionate 21-year-old pursuing my third year in computer science in France.</h3>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Nahli%20Zayd&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahlizayd&label=Profile%20views&color=0e75b6&style=flat" alt="nahlizayd" /> </p>
+  ### 🌌 Computer Science Student & Graphics Enthusiast
+  *Third-year CS student based in France, building worlds from code.*
+
+  [![](https://visit-counter.vercel.app/counter.png?page=nahlizayd)](https://github.com/nahlizayd)
   
-  <img src="https://raw.githubusercontent.com/NahliZayd/NahliZayd/main/snake.svg" alt="Snake animation" />
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahlizayd" alt="nahlizayd" /></a> </p>
+  ---
+</div>
 
-<p align="left">🔭 I’m currently working on <strong>GenesisForge</strong> — a large-scale procedural planet generation & simulation engine.</p>
+### 🛠️ The Forge
+I am currently deep-diving into the technical abyss of engine development and procedural worlds.
 
-<p align="left">🌱 I’m currently exploring engine development, procedural generation, simulations, rendering pipelines and 2D/3D graphics.</p>
+- 🔭 **GenesisForge**: Building a large-scale procedural planet generation & simulation engine.
+- 🌱 **Learning**: Rendering pipelines, 2D/3D graphics, and advanced simulation physics.
 
+---
 
-  <p align="left">
-  </p>
+### 🧰 Tech Stack & Arsenal
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,kotlin,dotnet,pytorch&perline=8" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,mysql,postgres,arduino,android&perline=8" />
+</p>
 
+---
 
+### 📊 Tactical Overview
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NahliZayd&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NahliZayd&layout=compact&theme=dracula&hide_border=true&card_width=250" height="165" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahlizayd&theme=dracula&hide_border=true" width="100%" />
+</div>
 
- 
+---
 
+### 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nahlizayd&theme=dracula&no-frame=true&column=7" alt="trophies" />
+  </a>
+</p>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NahliZayd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NahliZayd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahlizayd&" alt="nahlizayd" /></p>
-  </div>
-
-
-
-
-  <div align="left">
-  </div>
-
-  <br clear="both">
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NahliZayd/NahliZayd/main/snake.svg" alt="Snake animation" width="60%" />
 </div>
